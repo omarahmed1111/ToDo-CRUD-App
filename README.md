@@ -2,7 +2,7 @@
 
 The project main goal is:
 * To be used as a template for implementing a list with some operations on this list.
-* To be used as a starter website for making a ToDo App.
+* To be used as a starter code for making a ToDo App.
 
 # Features Available
 * Add a task
