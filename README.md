@@ -30,7 +30,6 @@ The project main goal is:
 # User manual
 ## Linux Ubuntu
 **Note**: Before following this steps make sure to install git, MongoDB, npm, and nodejs.   
-To use this project, follow this steps:
 1. Open a new terminal
 2. Clone the project
 ```git clone https://github.com/omarahmed1111/ToDo-CRUD-App.git```
